@@ -17,4 +17,4 @@ Task 2:
 
 SMS Classification
 
-In this Dataset I classified whether the sms received are spam or non-spam and what is count of it by Data cleaning, Data preprocessing and using Machine Learning algorithms. In this I Developded a text classification model to classify SMS as either spam or non-spam using various data science techniques.
+In this Dataset I classified whether the sms received are spam or non-spam and what is count of it by Data cleaning, Data preprocessing and using Machine Learning algorithms. In this I Developded a text classification model to classify SMS using various data science techniques.
