@@ -1,3 +1,5 @@
 # Bharat-Intern
 
-https://media.licdn.com/dms/image/D4D05AQHl12G1zFDm9Q/videocover-low/0/1694101221841?e=2147483647&v=beta&t=Vh9jK13K3CCHSlbPPrbuzJUD6fmQklh85dzmx3SLulE
+![image](https://github.com/99-chetna/Bharat-Intern/assets/112334463/463bd611-9f78-4652-858d-c3a6ea714943)
+
+
