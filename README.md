@@ -18,3 +18,10 @@ Task 2:
 SMS Classification
 
 In this Dataset I classified whether the sms received are spam or non-spam and what is count of it by Data cleaning, Data preprocessing and using Machine Learning algorithms. In this I Developded a text classification model to classify SMS using various data science techniques.
+
+
+Task 3: 
+
+Dogs and cats image classification 
+
+In this Dataset I developed a model which will distinguish between dogs and cats images. If you add more images in directory it will work accordingly. This is my first CNN model. 
